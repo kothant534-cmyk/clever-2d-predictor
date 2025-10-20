@@ -1,0 +1,21 @@
+{
+  "name": "Clever 2D Predictor",
+  "short_name": "2DPredictor",
+  "description": "Smart 2D predictions optimized for Galaxy S22 Ultra",
+  "start_url": "/clever-2d-predictor/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait",
+  "scope": "/clever-2d-predictor/",
+  "lang": "en",
+  "categories": ["productivity", "utilities"],
+  
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/feathericons/feather@4.28.0/icons/target.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
